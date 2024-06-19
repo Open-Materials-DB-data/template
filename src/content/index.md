@@ -1,5 +1,5 @@
 ---
-:Title: Data for template paper title
+Title: Data for template paper title
 ---
 
 # Data for template paper title
