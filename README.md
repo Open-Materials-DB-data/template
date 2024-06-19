@@ -17,3 +17,5 @@ To use this template:
 9. Edit this page for the contents you want and commit it (you can do all this inside the GitHub web user interface).
 10. Wait a while.
 11. Verify that the we page: https://data.openmaterialsdb.se/project_name now exists with your contents.
+12. Now visit our common index page repo: https://github.com/Open-Materials-DB-data/Open-Materials-DB-data.github.io
+13. Edit the index page `src/content/index.md` to include a link to your new page.
