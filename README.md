@@ -6,7 +6,7 @@ To use this template:
 
 1. Go to this repo: https://github.com/Open-Materials-DB-data/template
 2. Click the top right button 'Use this template' and pick 'Create a new repository'
-3. Change 'Owner' to `Open-Materials-DB-data` and name the repository after your project. P
+3. Change 'Owner' to `Open-Materials-DB-data` and name the repository after your project.
    Preferably use only lower case letters, no spaces.
    This is will be part of the URL for your web page.
 4. Change the repository to be 'Public'.
